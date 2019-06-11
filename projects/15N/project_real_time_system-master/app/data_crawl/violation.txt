@@ -1,0 +1,501 @@
+1,43A-09329,Xe Ô tô,Lấn làn,13-03-2019 08:41:54,Ngã ba Núi Thành - Trưng Nữ Vương
+2,38C-07000,Xe Ô tô,Vượt đèn đỏ,12-03-2019 13:11:58,Quốc lộ 14B - UBND Hòa Vang
+3,43A-03710,Xe Ô tô,Vượt đèn đỏ,12-03-2019 09:25:46,Ngã ba Núi Thành - Trưng Nữ Vương
+4,29C-73864,Xe Ô tô,Vượt đèn đỏ,12-03-2019 09:14:38,Quốc lộ 14B - UBND Hòa Vang
+5,43A-03705,Xe Ô tô,Vượt đèn đỏ,11-03-2019 09:32:37,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-20719,Xe Ô tô,Vượt đèn đỏ,11-03-2019 08:57:13,Ngã ba Núi Thành - Trưng Nữ Vương
+7,29A-97845,Xe Ô tô,Vượt đèn đỏ,10-03-2019 18:01:50,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-27432,Xe Ô tô,Lấn làn,10-03-2019 15:48:13,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-12793,Xe Ô tô,Vượt đèn đỏ,10-03-2019 10:11:50,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C-20693,Xe Ô tô,Vượt đèn đỏ,09-03-2019 16:56:19,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-26322,Xe Ô tô,Lấn làn,09-03-2019 14:56:56,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C-19332,Xe Ô tô,Lấn làn,09-03-2019 11:41:13,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-14134,Xe Ô tô,Vượt đèn đỏ,09-03-2019 08:49:28,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-24007,Xe Ô tô,Vượt đèn đỏ,09-03-2019 08:25:18,Quốc lộ 14B - UBND Hòa Vang
+5,43A-38892,Xe Ô tô,Lấn làn,08-03-2019 15:24:16,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C-15882,Xe Ô tô,Lấn làn,08-03-2019 13:45:56,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-18482,Xe Ô tô,Vượt đèn đỏ,08-03-2019 12:54:46,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43K1-13824,Xe máy,Vượt đèn đỏ,25-02-2019 08:06:15,Quốc lộ 14B - UBND Hòa Vang
+9,43K1-31362,Xe máy,Vượt đèn đỏ,25-02-2019 06:28:10,Quốc lộ 14B - UBND Hòa Vang
+10,43E1-50001,Xe máy,Vượt đèn đỏ,24-02-2019 15:53:14,Quốc lộ 14B - UBND Hòa Vang
+1,43K1-11031,Xe máy,Vượt đèn đỏ,24-02-2019 15:46:42,Quốc lộ 14B - UBND Hòa Vang
+2,43G1-03524,Xe máy,Vượt đèn đỏ,24-02-2019 15:45:28,Quốc lộ 14B - UBND Hòa Vang
+3,43C1-43698,Xe máy,Vượt đèn đỏ,24-02-2019 14:32:14,Quốc lộ 14B - UBND Hòa Vang
+4,43S4-5153,Xe máy,Lấn làn,24-02-2019 09:21:39,Quốc lộ 14B - UBND Hòa Vang
+5,77A-09627,Xe Ô tô,Vượt đèn đỏ,23-02-2019 13:49:33,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-36629,Xe Ô tô,Vượt đèn đỏ,23-02-2019 09:35:13,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-37898,Xe Ô tô,Vượt đèn đỏ,23-02-2019 09:19:58,Quốc lộ 14B - UBND Hòa Vang
+8,43S6-3205,Xe máy,Vượt đèn đỏ,21-02-2019 08:08:17,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-84235,Xe máy,Vượt đèn đỏ,21-02-2019 08:05:07,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43S5-1500,Xe máy,Vượt đèn đỏ,21-02-2019 08:03:06,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43M1-2221,Xe máy,Vượt đèn đỏ,21-02-2019 07:55:58,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43R1-0936,Xe máy,Vượt đèn đỏ,21-02-2019 07:51:56,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-24332,Xe máy,Vượt đèn đỏ,21-02-2019 07:40:03,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-55605,Xe máy,Vượt đèn đỏ,21-02-2019 07:33:08,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-31344,Xe máy,Vượt đèn đỏ,21-02-2019 07:20:07,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-69344,Xe máy,Vượt đèn đỏ,21-02-2019 07:17:37,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-71454,Xe máy,Vượt đèn đỏ,21-02-2019 06:48:16,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43K1-12246,Xe máy,Vượt đèn đỏ,21-02-2019 06:42:47,Quốc lộ 14B - UBND Hòa Vang
+9,43Y1-5161,Xe máy,Vượt đèn đỏ,21-02-2019 06:33:29,Quốc lộ 14B - UBND Hòa Vang
+10,43E1-05668,Xe máy,Vượt đèn đỏ,20-02-2019 20:49:25,Ngã ba Núi Thành - Trưng Nữ Vương
+1,59T1-84126,Xe máy,Vượt đèn đỏ,20-02-2019 20:37:33,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43E1-48333,Xe máy,Vượt đèn đỏ,20-02-2019 17:46:23,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43E1-02827,Xe máy,Lấn làn,20-02-2019 16:04:52,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-28509,Xe máy,Vượt đèn đỏ,20-02-2019 15:40:13,Ngã ba Núi Thành - Trưng Nữ Vương
+5,92A-02588,Xe Ô tô,Lấn làn,20-02-2019 15:26:06,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-17655,Xe Ô tô,Lấn làn,20-02-2019 12:00:16,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-26774,Xe Ô tô,Lấn làn,20-02-2019 10:44:57,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-31824,Xe Ô tô,Lấn làn,20-02-2019 10:34:09,Ngã ba Núi Thành - Trưng Nữ Vương
+9,52U-7646,Xe Ô tô,Vượt đèn đỏ,20-02-2019 06:44:31,Quốc lộ 14B - UBND Hòa Vang
+10,43A-39755,Xe Ô tô,Vượt đèn đỏ,19-02-2019 13:50:12,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-23565,Xe Ô tô,Vượt đèn đỏ,19-02-2019 11:27:13,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-30797,Xe Ô tô,Lấn làn,19-02-2019 11:21:07,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43G1-21169,Xe máy,Lấn làn,19-02-2019 10:43:23,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-58893,Xe máy,Vượt đèn đỏ,19-02-2019 10:06:59,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-18662,Xe máy,Vượt đèn đỏ,19-02-2019 10:05:06,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43K1-35361,Xe máy,Vượt đèn đỏ,19-02-2019 09:58:45,Quốc lộ 14B - UBND Hòa Vang
+7,43P2-0487,Xe máy,Vượt đèn đỏ,19-02-2019 09:38:06,Quốc lộ 14B - UBND Hòa Vang
+8,43C1-68856,Xe máy,Vượt đèn đỏ,19-02-2019 09:29:55,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-35375,Xe Ô tô,Lấn làn,19-02-2019 08:18:09,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-29842,Xe Ô tô,Vượt đèn đỏ,19-02-2019 07:26:25,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-37751,Xe Ô tô,Vượt đèn đỏ,19-02-2019 07:00:24,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-27110,Xe Ô tô,Lấn làn,19-02-2019 06:59:19,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-29053,Xe Ô tô,Lấn làn,18-02-2019 13:02:14,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-42440,Xe Ô tô,Vượt đèn đỏ,18-02-2019 10:55:26,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-07395,Xe Ô tô,Vượt đèn đỏ,18-02-2019 10:04:23,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-37222,Xe Ô tô,Vượt đèn đỏ,18-02-2019 08:33:25,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43H1-19839,Xe máy,Vượt đèn đỏ,18-02-2019 08:04:27,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-17729,Xe Ô tô,Lấn làn,18-02-2019 07:59:07,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43F1-10882,Xe máy,Lấn làn,18-02-2019 07:56:39,Ngã ba Núi Thành - Trưng Nữ Vương
+10,92F1-02823,Xe máy,Vượt đèn đỏ,17-02-2019 16:50:47,Quốc lộ 14B - UBND Hòa Vang
+1,92N3-4609,Xe máy,Vượt đèn đỏ,17-02-2019 16:39:15,Quốc lộ 14B - UBND Hòa Vang
+2,92A-14974,Xe Ô tô,Vượt đèn đỏ,17-02-2019 16:30:25,Ngã ba Núi Thành - Trưng Nữ Vương
+3,92S1-03779,Xe máy,Vượt đèn đỏ,17-02-2019 16:20:18,Quốc lộ 14B - UBND Hòa Vang
+4,43K1-11977,Xe máy,Vượt đèn đỏ,17-02-2019 16:19:36,Quốc lộ 14B - UBND Hòa Vang
+5,43G1-14261,Xe máy,Vượt đèn đỏ,17-02-2019 16:16:04,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92E1-36115,Xe máy,Vượt đèn đỏ,17-02-2019 16:12:31,Quốc lộ 14B - UBND Hòa Vang
+7,43A-37425,Xe Ô tô,Lấn làn,17-02-2019 13:59:22,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-15578,Xe Ô tô,Vượt đèn đỏ,17-02-2019 12:42:53,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-39408,Xe Ô tô,Lấn làn,17-02-2019 11:24:06,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-31581,Xe Ô tô,Vượt đèn đỏ,17-02-2019 10:23:55,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-30179,Xe Ô tô,Vượt đèn đỏ,16-02-2019 15:13:23,Ngã ba Núi Thành - Trưng Nữ Vương
+2,51G-47500,Xe Ô tô,Vượt đèn đỏ,16-02-2019 14:32:59,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-27034,Xe Ô tô,Vượt đèn đỏ,16-02-2019 08:34:57,Ngã ba Núi Thành - Trưng Nữ Vương
+4,51G-00078,Xe Ô tô,Vượt đèn đỏ,15-02-2019 17:56:53,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-12091,Xe Ô tô,Lấn làn,15-02-2019 16:36:11,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-14280,Xe Ô tô,Lấn làn,15-02-2019 16:05:04,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-79717,Xe máy,Vượt đèn đỏ,15-02-2019 14:51:09,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43X4-7792,Xe máy,Vượt đèn đỏ,15-02-2019 14:40:54,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-50615,Xe máy,Vượt đèn đỏ,15-02-2019 14:18:23,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43K1-35808,Xe máy,Vượt đèn đỏ,15-02-2019 14:08:53,Quốc lộ 14B - UBND Hòa Vang
+1,43D1-40498,Xe máy,Vượt đèn đỏ,15-02-2019 13:13:07,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-77747,Xe máy,Vượt đèn đỏ,15-02-2019 12:36:57,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-75167,Xe máy,Vượt đèn đỏ,15-02-2019 12:18:16,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-76626,Xe máy,Vượt đèn đỏ,15-02-2019 11:56:41,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43D1-74776,Xe máy,Vượt đèn đỏ,15-02-2019 11:29:57,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-36387,Xe Ô tô,Lấn làn,15-02-2019 10:37:14,Ngã ba Núi Thành - Trưng Nữ Vương
+7,75A-04872,Xe Ô tô,Lấn làn,15-02-2019 07:54:58,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43G1-17638,Xe máy,Lấn làn,15-02-2019 07:52:08,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-73519,Xe máy,Vượt đèn đỏ,15-02-2019 07:48:55,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43X3-8135,Xe máy,Vượt đèn đỏ,15-02-2019 07:46:53,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43P1-9625,Xe máy,Lấn làn,15-02-2019 07:44:06,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43X6-7946,Xe máy,Vượt đèn đỏ,15-02-2019 07:41:14,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-06251,Xe máy,Vượt đèn đỏ,15-02-2019 07:33:54,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43D1-72027,Xe máy,Vượt đèn đỏ,14-02-2019 20:38:21,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43E1-09596,Xe máy,Vượt đèn đỏ,14-02-2019 19:34:57,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92A-13482,Xe Ô tô,Vượt đèn đỏ,14-02-2019 18:58:19,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43X2-6205,Xe máy,Vượt đèn đỏ,14-02-2019 17:39:51,Ngã ba Núi Thành - Trưng Nữ Vương
+8,92E1-40039,Xe máy,Vượt đèn đỏ,14-02-2019 17:15:51,Quốc lộ 14B - UBND Hòa Vang
+9,43C1-29884,Xe máy,Vượt đèn đỏ,14-02-2019 16:52:52,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-46701,Xe máy,Vượt đèn đỏ,14-02-2019 16:43:24,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-36096,Xe Ô tô,Vượt đèn đỏ,14-02-2019 13:19:52,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-33476,Xe Ô tô,Vượt đèn đỏ,14-02-2019 09:51:23,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43F1-38709,Xe máy,Vượt đèn đỏ,14-02-2019 08:51:27,Quốc lộ 14B - UBND Hòa Vang
+4,43H1-05479,Xe máy,Vượt đèn đỏ,13-02-2019 08:15:56,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-63713,Xe máy,Vượt đèn đỏ,13-02-2019 08:12:20,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-23448,Xe máy,Lấn làn,13-02-2019 07:48:29,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-53433,Xe máy,Lấn làn,13-02-2019 07:27:49,Ngã ba Núi Thành - Trưng Nữ Vương
+8,75A-14722,Xe Ô tô,Lấn làn,13-02-2019 07:24:32,Ngã ba Núi Thành - Trưng Nữ Vương
+9,92A-06317,Xe Ô tô,Vượt đèn đỏ,12-02-2019 08:59:19,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-23057,Xe Ô tô,Vượt đèn đỏ,11-02-2019 15:38:44,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-20699,Xe máy,Vượt đèn đỏ,11-02-2019 14:07:38,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-70915,Xe máy,Vượt đèn đỏ,11-02-2019 13:58:31,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-45714,Xe máy,Vượt đèn đỏ,11-02-2019 13:48:47,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-39267,Xe máy,Vượt đèn đỏ,11-02-2019 13:45:44,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43E1-25144,Xe máy,Vượt đèn đỏ,11-02-2019 13:43:48,Ngã ba Núi Thành - Trưng Nữ Vương
+6,37D1-67202,Xe máy,Vượt đèn đỏ,11-02-2019 13:25:39,Quốc lộ 14B - UBND Hòa Vang
+7,92D1-38541,Xe máy,Vượt đèn đỏ,11-02-2019 13:22:20,Quốc lộ 14B - UBND Hòa Vang
+8,43E1-44568,Xe máy,Vượt đèn đỏ,11-02-2019 13:18:18,Quốc lộ 14B - UBND Hòa Vang
+9,43K1-29765,Xe máy,Vượt đèn đỏ,11-02-2019 13:07:29,Quốc lộ 14B - UBND Hòa Vang
+10,43C1-51321,Xe máy,Vượt đèn đỏ,11-02-2019 12:48:27,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43F1-37662,Xe máy,Vượt đèn đỏ,11-02-2019 12:36:13,Quốc lộ 14B - UBND Hòa Vang
+2,92D1-64586,Xe máy,Vượt đèn đỏ,11-02-2019 12:34:40,Ngã ba Núi Thành - Trưng Nữ Vương
+3,74C1-40812,Xe máy,Vượt đèn đỏ,11-02-2019 12:26:28,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43Y1-3453,Xe máy,Vượt đèn đỏ,11-02-2019 12:14:47,Quốc lộ 14B - UBND Hòa Vang
+5,37E1-46933,Xe máy,Vượt đèn đỏ,11-02-2019 12:01:09,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43E1-35639,Xe máy,Vượt đèn đỏ,11-02-2019 11:27:52,Quốc lộ 14B - UBND Hòa Vang
+7,43C1-73908,Xe máy,Vượt đèn đỏ,11-02-2019 11:24:24,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43F1-19234,Xe máy,Vượt đèn đỏ,11-02-2019 11:20:17,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-58934,Xe máy,Vượt đèn đỏ,11-02-2019 11:11:43,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43D1-70308,Xe máy,Vượt đèn đỏ,11-02-2019 11:02:16,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43E1-34094,Xe máy,Vượt đèn đỏ,11-02-2019 10:59:19,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-14778,Xe máy,Lấn làn,11-02-2019 10:57:40,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43E1-30159,Xe máy,Vượt đèn đỏ,11-02-2019 10:43:19,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-25550,Xe Ô tô,Lấn làn,11-02-2019 10:42:39,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-36366,Xe Ô tô,Lấn làn,11-02-2019 07:08:27,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-45640,Xe máy,Vượt đèn đỏ,10-02-2019 21:55:19,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-74953,Xe máy,Vượt đèn đỏ,10-02-2019 21:06:56,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C1-55303,Xe máy,Vượt đèn đỏ,10-02-2019 19:51:54,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43H1-12584,Xe máy,Vượt đèn đỏ,10-02-2019 19:14:37,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-30598,Xe Ô tô,Vượt đèn đỏ,10-02-2019 15:55:40,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-34238,Xe Ô tô,Vượt đèn đỏ,10-02-2019 14:14:42,Ngã ba Núi Thành - Trưng Nữ Vương
+2,51D-02189,Xe Ô tô,Vượt đèn đỏ,10-02-2019 11:12:58,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-28537,Xe Ô tô,Vượt đèn đỏ,09-02-2019 12:57:45,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-21256,Xe Ô tô,Vượt đèn đỏ,09-02-2019 12:06:31,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-40550,Xe Ô tô,Vượt đèn đỏ,09-02-2019 12:04:57,Ngã ba Núi Thành - Trưng Nữ Vương
+6,74A-02788,Xe Ô tô,Vượt đèn đỏ,09-02-2019 11:06:56,Ngã ba Núi Thành - Trưng Nữ Vương
+7,92A-09504,Xe Ô tô,Vượt đèn đỏ,08-02-2019 17:40:52,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-39501,Xe Ô tô,Lấn làn,08-02-2019 16:03:54,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-13405,Xe Ô tô,Vượt đèn đỏ,08-02-2019 15:45:52,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-31689,Xe Ô tô,Vượt đèn đỏ,08-02-2019 14:13:35,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-37958,Xe Ô tô,Vượt đèn đỏ,08-02-2019 14:12:26,Ngã ba Núi Thành - Trưng Nữ Vương
+2,49A-20077,Xe Ô tô,Vượt đèn đỏ,07-02-2019 16:47:13,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-30020,Xe Ô tô,Vượt đèn đỏ,07-02-2019 15:23:43,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-42438,Xe Ô tô,Lấn làn,07-02-2019 12:45:08,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-21965,Xe Ô tô,Vượt đèn đỏ,07-02-2019 11:31:22,Ngã ba Núi Thành - Trưng Nữ Vương
+6,51G-60617,Xe Ô tô,Vượt đèn đỏ,07-02-2019 10:42:47,Ngã ba Núi Thành - Trưng Nữ Vương
+7,82A-00530,Xe Ô tô,Lấn làn,07-02-2019 08:42:59,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-12092,Xe Ô tô,Vượt đèn đỏ,07-02-2019 08:33:39,Quốc lộ 14B - UBND Hòa Vang
+9,43A-13670,Xe Ô tô,Lấn làn,06-02-2019 17:03:51,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-35303,Xe Ô tô,Vượt đèn đỏ,06-02-2019 15:29:11,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-06093,Xe Ô tô,Lấn làn,06-02-2019 14:45:40,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43S-9690,Xe Ô tô,Vượt đèn đỏ,06-02-2019 10:37:07,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-40550,Xe Ô tô,Vượt đèn đỏ,06-02-2019 10:20:15,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-22853,Xe Ô tô,Vượt đèn đỏ,06-02-2019 08:51:18,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-15974,Xe Ô tô,Lấn làn,05-02-2019 14:22:35,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-38351,Xe Ô tô,Vượt đèn đỏ,05-02-2019 10:26:14,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-34472,Xe Ô tô,Vượt đèn đỏ,04-02-2019 18:15:25,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-08293,Xe Ô tô,Vượt đèn đỏ,04-02-2019 12:44:16,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-10268,Xe Ô tô,Lấn làn,04-02-2019 10:02:45,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-38560,Xe Ô tô,Vượt đèn đỏ,03-02-2019 12:35:06,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-41665,Xe Ô tô,Vượt đèn đỏ,03-02-2019 11:48:57,Quốc lộ 14B - UBND Hòa Vang
+2,43A-15678,Xe Ô tô,Vượt đèn đỏ,03-02-2019 09:30:56,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43X-0677,Xe Ô tô,Vượt đèn đỏ,03-02-2019 08:48:20,Quốc lộ 14B - UBND Hòa Vang
+4,43A-39696,Xe Ô tô,Vượt đèn đỏ,01-02-2019 18:39:28,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C-08774,Xe Ô tô,Vượt đèn đỏ,01-02-2019 16:34:37,Quốc lộ 14B - UBND Hòa Vang
+6,43A-17825,Xe Ô tô,Vượt đèn đỏ,01-02-2019 10:51:56,Ngã ba Núi Thành - Trưng Nữ Vương
+7,92H-1403,Xe Ô tô,Vượt đèn đỏ,01-02-2019 10:08:56,Ngã ba Núi Thành - Trưng Nữ Vương
+8,51A-72539,Xe Ô tô,Lấn làn,31-01-2019 17:09:15,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-20798,Xe Ô tô,Lấn làn,31-01-2019 16:24:21,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-13479,Xe Ô tô,Vượt đèn đỏ,31-01-2019 12:24:54,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-38017,Xe máy,Lấn làn,31-01-2019 08:41:14,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43K1-40418,Xe máy,Vượt đèn đỏ,31-01-2019 08:26:55,Quốc lộ 14B - UBND Hòa Vang
+3,43C1-78622,Xe máy,Vượt đèn đỏ,31-01-2019 08:15:05,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-36913,Xe máy,Vượt đèn đỏ,31-01-2019 08:12:39,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-04917,Xe máy,Lấn làn,31-01-2019 08:06:17,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-63030,Xe máy,Lấn làn,31-01-2019 07:59:07,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-50860,Xe máy,Lấn làn,31-01-2019 07:54:05,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43E1-29999,Xe máy,Vượt đèn đỏ,31-01-2019 07:52:33,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43F1-10610,Xe máy,Vượt đèn đỏ,31-01-2019 07:50:27,Quốc lộ 14B - UBND Hòa Vang
+10,43C1-73779,Xe máy,Lấn làn,31-01-2019 07:38:20,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-02713,Xe Ô tô,Vượt đèn đỏ,31-01-2019 06:49:30,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43X-2758,Xe Ô tô,Vượt đèn đỏ,30-01-2019 16:01:58,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-30411,Xe Ô tô,Lấn làn,30-01-2019 15:41:09,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-31131,Xe Ô tô,Lấn làn,29-01-2019 16:49:19,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-34974,Xe Ô tô,Vượt đèn đỏ,29-01-2019 12:25:58,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43K1-05287,Xe máy,Vượt đèn đỏ,29-01-2019 08:34:10,Quốc lộ 14B - UBND Hòa Vang
+7,43A-02067,Xe Ô tô,Vượt đèn đỏ,29-01-2019 07:19:07,Quốc lộ 14B - UBND Hòa Vang
+8,30F-48616,Xe Ô tô,Vượt đèn đỏ,28-01-2019 15:39:09,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-27976,Xe Ô tô,Vượt đèn đỏ,28-01-2019 15:33:21,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43K1-31291,Xe máy,Vượt đèn đỏ,28-01-2019 15:08:12,Quốc lộ 14B - UBND Hòa Vang
+1,43C-19332,Xe Ô tô,Lấn làn,28-01-2019 11:56:09,Ngã ba Núi Thành - Trưng Nữ Vương
+2,92A-09470,Xe Ô tô,Lấn làn,28-01-2019 11:32:03,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-26872,Xe Ô tô,Vượt đèn đỏ,27-01-2019 19:14:14,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-16106,Xe Ô tô,Vượt đèn đỏ,27-01-2019 13:51:49,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-26439,Xe Ô tô,Vượt đèn đỏ,27-01-2019 13:12:11,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-30419,Xe Ô tô,Vượt đèn đỏ,27-01-2019 12:28:31,Ngã ba Núi Thành - Trưng Nữ Vương
+7,51F-66481,Xe Ô tô,Vượt đèn đỏ,26-01-2019 13:50:21,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-03633,Xe Ô tô,Vượt đèn đỏ,26-01-2019 13:35:14,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-33780,Xe Ô tô,Vượt đèn đỏ,26-01-2019 12:19:34,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-07395,Xe Ô tô,Lấn làn,26-01-2019 08:29:09,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43K1-10811,Xe máy,Lấn làn,26-01-2019 08:18:25,Quốc lộ 14B - UBND Hòa Vang
+2,43A-38343,Xe Ô tô,Lấn làn,26-01-2019 06:52:51,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-34583,Xe Ô tô,Vượt đèn đỏ,25-01-2019 17:53:06,Ngã ba Núi Thành - Trưng Nữ Vương
+4,74A-05499,Xe Ô tô,Vượt đèn đỏ,25-01-2019 16:15:22,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-03777,Xe Ô tô,Vượt đèn đỏ,25-01-2019 15:25:22,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-03501,Xe Ô tô,Lấn làn,25-01-2019 11:23:09,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-41771,Xe Ô tô,Lấn làn,25-01-2019 10:02:59,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-32527,Xe Ô tô,Lấn làn,25-01-2019 07:33:06,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43H-6118,Xe Ô tô,Lấn làn,24-01-2019 17:08:07,Ngã ba Núi Thành - Trưng Nữ Vương
+10,92A-01297,Xe Ô tô,Vượt đèn đỏ,24-01-2019 16:16:53,Quốc lộ 14B - UBND Hòa Vang
+1,43A-23291,Xe Ô tô,Vượt đèn đỏ,24-01-2019 13:50:36,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C-03612,Xe Ô tô,Vượt đèn đỏ,24-01-2019 11:06:52,Quốc lộ 14B - UBND Hòa Vang
+3,43A-41370,Xe Ô tô,Vượt đèn đỏ,23-01-2019 08:31:39,Quốc lộ 14B - UBND Hòa Vang
+4,43A-18107,Xe Ô tô,Lấn làn,22-01-2019 10:23:12,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-36661,Xe Ô tô,Lấn làn,21-01-2019 11:17:15,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-05403,Xe Ô tô,Vượt đèn đỏ,21-01-2019 08:42:12,Quốc lộ 14B - UBND Hòa Vang
+7,43A-27395,Xe Ô tô,Lấn làn,21-01-2019 08:17:18,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-38694,Xe Ô tô,Lấn làn,21-01-2019 07:46:17,Ngã ba Núi Thành - Trưng Nữ Vương
+9,37D1-68691,Xe máy,Vượt đèn đỏ,21-01-2019 07:31:50,Quốc lộ 14B - UBND Hòa Vang
+10,43K1-13706,Xe máy,Vượt đèn đỏ,21-01-2019 07:06:08,Quốc lộ 14B - UBND Hòa Vang
+1,43C-19941,Xe Ô tô,Vượt đèn đỏ,20-01-2019 14:32:51,Quốc lộ 14B - UBND Hòa Vang
+2,92F1-32841,Xe máy,Vượt đèn đỏ,20-01-2019 14:24:31,Quốc lộ 14B - UBND Hòa Vang
+3,51A-48930,Xe Ô tô,Vượt đèn đỏ,20-01-2019 09:21:34,Ngã ba Núi Thành - Trưng Nữ Vương
+4,92E1-30833,Xe máy,Vượt đèn đỏ,19-01-2019 08:42:57,Quốc lộ 14B - UBND Hòa Vang
+5,43D1-10773,Xe máy,Vượt đèn đỏ,19-01-2019 07:34:30,Quốc lộ 14B - UBND Hòa Vang
+6,43D1-46156,Xe máy,Vượt đèn đỏ,16-01-2019 16:55:11,Quốc lộ 14B - UBND Hòa Vang
+7,43C1-66050,Xe máy,Vượt đèn đỏ,16-01-2019 16:42:09,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43E1-06558,Xe máy,Vượt đèn đỏ,16-01-2019 16:04:10,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-45368,Xe máy,Vượt đèn đỏ,16-01-2019 15:52:21,Ngã ba Núi Thành - Trưng Nữ Vương
+10,92S2-5400,Xe máy,Vượt đèn đỏ,16-01-2019 15:48:58,Quốc lộ 14B - UBND Hòa Vang
+1,43C1-37032,Xe máy,Vượt đèn đỏ,16-01-2019 15:42:35,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-58719,Xe máy,Vượt đèn đỏ,16-01-2019 15:41:15,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-82607,Xe máy,Vượt đèn đỏ,16-01-2019 15:40:37,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43H1-03293,Xe máy,Vượt đèn đỏ,16-01-2019 15:38:35,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43E1-27944,Xe máy,Vượt đèn đỏ,16-01-2019 15:21:14,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-45629,Xe máy,Vượt đèn đỏ,16-01-2019 15:18:37,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-45847,Xe máy,Vượt đèn đỏ,16-01-2019 15:15:19,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C1-72297,Xe máy,Vượt đèn đỏ,16-01-2019 15:12:18,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-27009,Xe máy,Vượt đèn đỏ,16-01-2019 15:07:23,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-40260,Xe máy,Vượt đèn đỏ,16-01-2019 15:05:10,Ngã ba Núi Thành - Trưng Nữ Vương
+1,92H1-58884,Xe máy,Vượt đèn đỏ,16-01-2019 15:00:37,Ngã ba Núi Thành - Trưng Nữ Vương
+2,47E1-31885,Xe máy,Lấn làn,16-01-2019 15:00:12,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-51943,Xe máy,Vượt đèn đỏ,16-01-2019 14:58:55,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-72517,Xe máy,Vượt đèn đỏ,16-01-2019 14:23:11,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43D1-15225,Xe máy,Vượt đèn đỏ,16-01-2019 14:20:18,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-54066,Xe máy,Vượt đèn đỏ,16-01-2019 14:02:43,Quốc lộ 14B - UBND Hòa Vang
+7,43X6-9692,Xe máy,Vượt đèn đỏ,16-01-2019 13:57:24,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C1-78961,Xe máy,Lấn làn,16-01-2019 09:21:32,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-72035,Xe máy,Lấn làn,16-01-2019 09:07:26,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43S9-9820,Xe máy,Lấn làn,15-01-2019 15:09:08,Ngã ba Núi Thành - Trưng Nữ Vương
+1,77C-11972,Xe Ô tô,Vượt đèn đỏ,15-01-2019 12:25:55,Quốc lộ 14B - UBND Hòa Vang
+2,43A-36933,Xe Ô tô,Vượt đèn đỏ,15-01-2019 08:54:55,Quốc lộ 14B - UBND Hòa Vang
+3,51F-25135,Xe Ô tô,Lấn làn,15-01-2019 08:13:13,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-60587,Xe máy,Lấn làn,15-01-2019 08:06:42,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-14709,Xe máy,Lấn làn,14-01-2019 14:59:20,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-24059,Xe máy,Lấn làn,14-01-2019 08:06:23,Ngã ba Núi Thành - Trưng Nữ Vương
+7,92A-02977,Xe Ô tô,Vượt đèn đỏ,13-01-2019 19:52:47,Ngã ba Núi Thành - Trưng Nữ Vương
+8,92E1-31669,Xe máy,Lấn làn,13-01-2019 16:42:30,Quốc lộ 14B - UBND Hòa Vang
+9,43A-25889,Xe Ô tô,Lấn làn,13-01-2019 16:35:16,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-20485,Xe Ô tô,Vượt đèn đỏ,13-01-2019 16:01:34,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-30332,Xe máy,Lấn làn,13-01-2019 14:53:09,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43D1-66352,Xe máy,Lấn làn,13-01-2019 14:36:59,Ngã ba Núi Thành - Trưng Nữ Vương
+3,75B1-31397,Xe máy,Lấn làn,13-01-2019 13:48:20,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-34091,Xe Ô tô,Vượt đèn đỏ,13-01-2019 12:17:24,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-28948,Xe máy,Lấn làn,13-01-2019 11:24:10,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43X-1000,Xe Ô tô,Vượt đèn đỏ,13-01-2019 09:37:59,Quốc lộ 14B - UBND Hòa Vang
+7,79C-12448,Xe Ô tô,Vượt đèn đỏ,13-01-2019 09:29:53,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C-17725,Xe Ô tô,Lấn làn,13-01-2019 08:34:17,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-28502,Xe Ô tô,Vượt đèn đỏ,12-01-2019 12:57:18,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-35295,Xe Ô tô,Vượt đèn đỏ,12-01-2019 11:53:24,Quốc lộ 14B - UBND Hòa Vang
+1,92B-01337,Xe Ô tô,Lấn làn,12-01-2019 11:35:07,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-10630,Xe Ô tô,Vượt đèn đỏ,12-01-2019 11:33:18,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-25140,Xe Ô tô,Lấn làn,12-01-2019 11:06:11,Ngã ba Núi Thành - Trưng Nữ Vương
+4,92C-05433,Xe Ô tô,Vượt đèn đỏ,12-01-2019 09:26:22,Quốc lộ 14B - UBND Hòa Vang
+5,43A-31689,Xe Ô tô,Vượt đèn đỏ,12-01-2019 09:18:18,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43D1-13626,Xe máy,Lấn làn,10-01-2019 14:33:24,Quốc lộ 14B - UBND Hòa Vang
+7,43A-29345,Xe Ô tô,Lấn làn,10-01-2019 13:54:50,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-24769,Xe Ô tô,Lấn làn,10-01-2019 08:51:54,Ngã ba Núi Thành - Trưng Nữ Vương
+9,72F9-7930,Xe máy,Vượt đèn đỏ,09-01-2019 16:53:18,Quốc lộ 14B - UBND Hòa Vang
+10,43C1-59468,Xe máy,Vượt đèn đỏ,09-01-2019 16:49:37,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43D1-60346,Xe máy,Vượt đèn đỏ,09-01-2019 16:41:30,Quốc lộ 14B - UBND Hòa Vang
+2,43C1-82222,Xe máy,Lấn làn,09-01-2019 16:15:59,Ngã ba Núi Thành - Trưng Nữ Vương
+3,74F1-11087,Xe máy,Lấn làn,09-01-2019 14:59:38,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43R2-1548,Xe máy,Lấn làn,09-01-2019 13:26:35,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-12295,Xe Ô tô,Lấn làn,09-01-2019 13:05:57,Ngã ba Núi Thành - Trưng Nữ Vương
+6,4D1-47212,Xe máy,Lấn làn,09-01-2019 12:58:47,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-05697,Xe máy,Lấn làn,09-01-2019 12:17:35,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43D1-22329,Xe máy,Lấn làn,09-01-2019 11:15:47,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C-03476,Xe Ô tô,Vượt đèn đỏ,09-01-2019 10:43:16,Quốc lộ 14B - UBND Hòa Vang
+10,43C1-44770,Xe máy,Lấn làn,09-01-2019 10:20:47,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-21442,Xe Ô tô,Vượt đèn đỏ,09-01-2019 09:57:01,Quốc lộ 14B - UBND Hòa Vang
+2,43A-17063,Xe Ô tô,Lấn làn,08-01-2019 16:32:17,Ngã ba Núi Thành - Trưng Nữ Vương
+3,78M1-14408,Xe máy,Lấn làn,08-01-2019 12:51:31,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43D1-66352,Xe máy,Lấn làn,08-01-2019 12:49:44,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-25140,Xe Ô tô,Lấn làn,08-01-2019 11:08:08,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-37647,Xe Ô tô,Lấn làn,08-01-2019 08:01:07,Ngã ba Núi Thành - Trưng Nữ Vương
+7,75A-09138,Xe Ô tô,Lấn làn,08-01-2019 07:33:23,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-07454,Xe Ô tô,Lấn làn,07-01-2019 12:09:44,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-40738,Xe Ô tô,Vượt đèn đỏ,07-01-2019 11:10:21,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43S-3972,Xe Ô tô,Lấn làn,06-01-2019 15:25:53,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43A-03714,Xe Ô tô,Lấn làn,06-01-2019 13:08:14,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-32888,Xe Ô tô,Vượt đèn đỏ,06-01-2019 10:47:46,Ngã ba Núi Thành - Trưng Nữ Vương
+3,92A-11325,Xe Ô tô,Vượt đèn đỏ,05-01-2019 13:15:52,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-37751,Xe Ô tô,Vượt đèn đỏ,05-01-2019 09:52:10,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43D1-53467,Xe máy,Vượt đèn đỏ,02-01-2019 07:53:08,Quốc lộ 14B - UBND Hòa Vang
+6,43A-41114,Xe Ô tô,Lấn làn,01-01-2019 15:08:26,Ngã ba Núi Thành - Trưng Nữ Vương
+7,72A-22892,Xe Ô tô,Vượt đèn đỏ,01-01-2019 13:18:22,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-12975,Xe Ô tô,Lấn làn,01-01-2019 13:12:29,Ngã ba Núi Thành - Trưng Nữ Vương
+9,51G-39644,Xe Ô tô,Vượt đèn đỏ,01-01-2019 12:54:23,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43X-5969,Xe Ô tô,Vượt đèn đỏ,01-01-2019 08:43:25,Quốc lộ 14B - UBND Hòa Vang
+1,43A-04933,Xe Ô tô,Vượt đèn đỏ,01-01-2019 08:12:14,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-30483,Xe Ô tô,Vượt đèn đỏ,31-12-2018 14:09:22,Quốc lộ 14B - UBND Hòa Vang
+3,43D-00173,Xe Ô tô,Lấn làn,31-12-2018 09:05:37,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-28367,Xe Ô tô,Lấn làn,30-12-2018 11:50:24,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-14079,Xe Ô tô,Vượt đèn đỏ,30-12-2018 11:10:33,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92A-13145,Xe Ô tô,Vượt đèn đỏ,29-12-2018 14:20:32,Quốc lộ 14B - UBND Hòa Vang
+7,43A-33972,Xe Ô tô,Vượt đèn đỏ,28-12-2018 15:34:05,Quốc lộ 14B - UBND Hòa Vang
+8,30A-44172,Xe Ô tô,Vượt đèn đỏ,28-12-2018 13:03:22,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-22517,Xe Ô tô,Vượt đèn đỏ,28-12-2018 10:01:52,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43E1-37736,Xe máy,Vượt đèn đỏ,28-12-2018 08:39:29,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43D1-47502,Xe máy,Lấn làn,28-12-2018 08:34:08,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-34549,Xe máy,Vượt đèn đỏ,28-12-2018 08:14:19,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43S8-4775,Xe máy,Vượt đèn đỏ,28-12-2018 08:10:40,Quốc lộ 14B - UBND Hòa Vang
+4,43D1-45767,Xe máy,Vượt đèn đỏ,28-12-2018 07:58:55,Ngã ba Núi Thành - Trưng Nữ Vương
+5,92A-05735,Xe Ô tô,Lấn làn,28-12-2018 07:44:18,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-25049,Xe Ô tô,Lấn làn,28-12-2018 07:27:06,Ngã ba Núi Thành - Trưng Nữ Vương
+7,92H1-54649,Xe máy,Vượt đèn đỏ,27-12-2018 20:39:51,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43E1-38516,Xe máy,Vượt đèn đỏ,27-12-2018 18:58:54,Ngã ba Núi Thành - Trưng Nữ Vương
+9,92F1-35607,Xe máy,Lấn làn,27-12-2018 14:49:44,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43F1-37532,Xe máy,Lấn làn,27-12-2018 14:07:05,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43S7-7736,Xe máy,Lấn làn,27-12-2018 13:17:41,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43E1-38194,Xe máy,Lấn làn,27-12-2018 12:34:30,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43H1-04799,Xe máy,Lấn làn,27-12-2018 12:33:39,Ngã ba Núi Thành - Trưng Nữ Vương
+4,92A-14133,Xe Ô tô,Vượt đèn đỏ,27-12-2018 10:57:15,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43E1-30399,Xe máy,Lấn làn,27-12-2018 10:53:29,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C-08074,Xe Ô tô,Vượt đèn đỏ,27-12-2018 10:35:52,Quốc lộ 14B - UBND Hòa Vang
+7,43H1-17660,Xe máy,Lấn làn,27-12-2018 10:05:08,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43E1-32834,Xe máy,Lấn làn,27-12-2018 09:07:16,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43C1-46759,Xe máy,Vượt đèn đỏ,26-12-2018 14:49:35,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-26417,Xe Ô tô,Lấn làn,26-12-2018 12:34:43,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43D1-46620,Xe máy,Lấn làn,25-12-2018 14:16:57,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-67192,Xe máy,Lấn làn,25-12-2018 14:08:49,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43E1-44683,Xe máy,Lấn làn,25-12-2018 13:46:56,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43E1-01117,Xe máy,Lấn làn,25-12-2018 13:40:54,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-17104,Xe Ô tô,Lấn làn,25-12-2018 13:05:32,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-29765,Xe Ô tô,Lấn làn,25-12-2018 12:17:40,Ngã ba Núi Thành - Trưng Nữ Vương
+7,38H8-8144,Xe máy,Lấn làn,25-12-2018 12:06:56,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C1-19290,Xe máy,Lấn làn,25-12-2018 11:48:36,Ngã ba Núi Thành - Trưng Nữ Vương
+9,92A-10358,Xe Ô tô,Lấn làn,25-12-2018 11:13:46,Ngã ba Núi Thành - Trưng Nữ Vương
+10,74H1-11255,Xe máy,Lấn làn,25-12-2018 10:59:44,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-48479,Xe máy,Lấn làn,25-12-2018 10:48:53,Ngã ba Núi Thành - Trưng Nữ Vương
+2,73G1-07392,Xe máy,Lấn làn,25-12-2018 10:29:41,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-61654,Xe máy,Lấn làn,25-12-2018 09:42:52,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43K6-7538,Xe máy,Vượt đèn đỏ,25-12-2018 08:32:40,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-72517,Xe máy,Vượt đèn đỏ,25-12-2018 08:12:29,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43X5-3434,Xe máy,Vượt đèn đỏ,25-12-2018 08:01:38,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43P1-9628,Xe máy,Lấn làn,25-12-2018 07:39:31,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43K1-03294,Xe máy,Vượt đèn đỏ,24-12-2018 15:43:57,Quốc lộ 14B - UBND Hòa Vang
+9,92E1-19815,Xe máy,Vượt đèn đỏ,24-12-2018 15:28:07,Quốc lộ 14B - UBND Hòa Vang
+10,43R2-0649,Xe máy,Vượt đèn đỏ,24-12-2018 14:47:41,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-67088,Xe máy,Vượt đèn đỏ,24-12-2018 14:28:27,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43R2-6090,Xe máy,Vượt đèn đỏ,24-12-2018 14:21:27,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43D1-50914,Xe máy,Vượt đèn đỏ,24-12-2018 14:11:13,Quốc lộ 14B - UBND Hòa Vang
+4,43C1-72517,Xe máy,Vượt đèn đỏ,24-12-2018 14:05:20,Ngã ba Núi Thành - Trưng Nữ Vương
+5,74L1-12195,Xe máy,Vượt đèn đỏ,24-12-2018 13:54:29,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92T1-04391,Xe máy,Vượt đèn đỏ,24-12-2018 13:29:43,Quốc lộ 14B - UBND Hòa Vang
+7,92H2-9445,Xe máy,Vượt đèn đỏ,24-12-2018 13:27:10,Quốc lộ 14B - UBND Hòa Vang
+8,43E1-17575,Xe máy,Lấn làn,24-12-2018 13:21:22,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43X4-6439,Xe máy,Vượt đèn đỏ,24-12-2018 13:06:23,Ngã ba Núi Thành - Trưng Nữ Vương
+10,92H1-29293,Xe máy,Vượt đèn đỏ,24-12-2018 13:03:29,Ngã ba Núi Thành - Trưng Nữ Vương
+1,92G1-17551,Xe máy,Vượt đèn đỏ,24-12-2018 13:00:33,Ngã ba Núi Thành - Trưng Nữ Vương
+2,72C1-37871,Xe máy,Vượt đèn đỏ,24-12-2018 12:58:16,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-02783,Xe máy,Vượt đèn đỏ,24-12-2018 12:49:16,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43K1-34329,Xe máy,Vượt đèn đỏ,24-12-2018 12:30:52,Quốc lộ 14B - UBND Hòa Vang
+5,75H1-32347,Xe máy,Vượt đèn đỏ,24-12-2018 12:29:24,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43K1-29319,Xe máy,Vượt đèn đỏ,24-12-2018 12:25:31,Quốc lộ 14B - UBND Hòa Vang
+7,43R1-2964,Xe máy,Vượt đèn đỏ,24-12-2018 12:25:05,Ngã ba Núi Thành - Trưng Nữ Vương
+8,29P1-33804,Xe máy,Vượt đèn đỏ,24-12-2018 12:18:16,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43G1-22525,Xe máy,Vượt đèn đỏ,24-12-2018 12:15:19,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-68493,Xe máy,Vượt đèn đỏ,24-12-2018 12:10:12,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43G1-12765,Xe máy,Vượt đèn đỏ,24-12-2018 12:06:37,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43E1-44683,Xe máy,Vượt đèn đỏ,24-12-2018 12:01:35,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43G1-22134,Xe máy,Vượt đèn đỏ,24-12-2018 11:17:20,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43E1-28596,Xe máy,Vượt đèn đỏ,24-12-2018 10:52:25,Ngã ba Núi Thành - Trưng Nữ Vương
+5,92G1-13390,Xe máy,Vượt đèn đỏ,24-12-2018 10:51:37,Ngã ba Núi Thành - Trưng Nữ Vương
+6,78C1-20341,Xe máy,Lấn làn,24-12-2018 10:37:35,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43H4-0507,Xe máy,Vượt đèn đỏ,24-12-2018 10:34:11,Quốc lộ 14B - UBND Hòa Vang
+8,92N3-4609,Xe máy,Vượt đèn đỏ,24-12-2018 10:24:49,Quốc lộ 14B - UBND Hòa Vang
+9,43F1-40567,Xe máy,Vượt đèn đỏ,24-12-2018 10:23:34,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-02783,Xe máy,Vượt đèn đỏ,24-12-2018 10:22:27,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43S5-3142,Xe máy,Vượt đèn đỏ,24-12-2018 10:08:47,Quốc lộ 14B - UBND Hòa Vang
+2,92G1-21254,Xe máy,Vượt đèn đỏ,24-12-2018 10:05:20,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43C1-28073,Xe máy,Vượt đèn đỏ,24-12-2018 10:02:25,Ngã ba Núi Thành - Trưng Nữ Vương
+4,92D1-31678,Xe máy,Vượt đèn đỏ,24-12-2018 09:41:21,Ngã ba Núi Thành - Trưng Nữ Vương
+5,75A-13626,Xe Ô tô,Vượt đèn đỏ,23-12-2018 19:50:42,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43G1-23436,Xe máy,Vượt đèn đỏ,23-12-2018 14:03:29,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-38307,Xe Ô tô,Lấn làn,23-12-2018 11:23:09,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-39842,Xe Ô tô,Vượt đèn đỏ,23-12-2018 11:16:08,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-39225,Xe Ô tô,Vượt đèn đỏ,23-12-2018 09:01:45,Quốc lộ 14B - UBND Hòa Vang
+10,43A-36833,Xe Ô tô,Vượt đèn đỏ,23-12-2018 07:21:13,Ngã ba Núi Thành - Trưng Nữ Vương
+1,92L4-0937,Xe máy,Vượt đèn đỏ,22-12-2018 16:58:29,Quốc lộ 14B - UBND Hòa Vang
+2,43A-02015,Xe Ô tô,Lấn làn,22-12-2018 10:52:10,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-08638,Xe Ô tô,Lấn làn,22-12-2018 10:01:06,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-12579,Xe Ô tô,Vượt đèn đỏ,22-12-2018 07:43:58,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-09131,Xe Ô tô,Vượt đèn đỏ,21-12-2018 15:03:56,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92A-04573,Xe Ô tô,Vượt đèn đỏ,21-12-2018 12:55:07,Quốc lộ 14B - UBND Hòa Vang
+7,76A-07646,Xe Ô tô,Vượt đèn đỏ,21-12-2018 12:30:49,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43K1-33700,Xe máy,Vượt đèn đỏ,21-12-2018 10:12:15,Quốc lộ 14B - UBND Hòa Vang
+9,43K1-27009,Xe máy,Vượt đèn đỏ,21-12-2018 10:02:43,Quốc lộ 14B - UBND Hòa Vang
+10,43A-14039,Xe Ô tô,Vượt đèn đỏ,20-12-2018 17:57:56,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43S-8885,Xe Ô tô,Vượt đèn đỏ,20-12-2018 06:49:48,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43A-11612,Xe Ô tô,Vượt đèn đỏ,17-12-2018 18:35:38,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-00327,Xe Ô tô,Vượt đèn đỏ,16-12-2018 10:34:35,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-11612,Xe Ô tô,Vượt đèn đỏ,13-12-2018 08:48:17,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-17107,Xe máy,Vượt đèn đỏ,13-12-2018 07:54:21,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-38643,Xe máy,Vượt đèn đỏ,13-12-2018 07:28:15,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-82668,Xe máy,Vượt đèn đỏ,12-12-2018 21:13:08,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-39501,Xe Ô tô,Vượt đèn đỏ,10-12-2018 14:06:07,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-14501,Xe Ô tô,Vượt đèn đỏ,10-12-2018 13:44:08,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43A-33216,Xe Ô tô,Vượt đèn đỏ,09-12-2018 10:31:18,Ngã ba Núi Thành - Trưng Nữ Vương
+1,92A-09590,Xe Ô tô,Vượt đèn đỏ,07-12-2018 13:37:49,Ngã ba Núi Thành - Trưng Nữ Vương
+2,74A-05752,Xe Ô tô,Vượt đèn đỏ,07-12-2018 09:40:53,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-26764,Xe Ô tô,Vượt đèn đỏ,30-11-2018 13:04:19,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-37638,Xe Ô tô,Vượt đèn đỏ,29-11-2018 13:03:29,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-32926,Xe Ô tô,Vượt đèn đỏ,25-11-2018 13:22:21,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-11314,Xe Ô tô,Vượt đèn đỏ,24-11-2018 08:19:55,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43S-6044,Xe Ô tô,Vượt đèn đỏ,23-11-2018 12:54:10,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-34649,Xe Ô tô,Vượt đèn đỏ,22-11-2018 17:46:15,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-17552,Xe Ô tô,Vượt đèn đỏ,22-11-2018 08:46:52,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-73193,Xe máy,Vượt đèn đỏ,21-11-2018 07:44:06,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-79421,Xe máy,Vượt đèn đỏ,21-11-2018 07:43:06,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-69286,Xe máy,Vượt đèn đỏ,20-11-2018 12:20:05,Ngã ba Núi Thành - Trưng Nữ Vương
+3,43A-38775,Xe Ô tô,Vượt đèn đỏ,23-10-2018 11:34:15,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-08399,Xe Ô tô,Vượt đèn đỏ,04-10-2018 07:55:23,Quốc lộ 14B - UBND Hòa Vang
+5,43A-23580,Xe Ô tô,Vượt đèn đỏ,01-10-2018 10:10:36,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43A-29909,Xe Ô tô,Lấn làn,29-09-2018 14:35:23,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-41971,Xe máy,Vượt đèn đỏ,28-09-2018 13:22:50,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43R2-8675,Xe máy,Vượt đèn đỏ,25-09-2018 12:59:52,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-36330,Xe Ô tô,Lấn làn,19-09-2018 16:21:11,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43K1-40529,Xe máy,Vượt đèn đỏ,31-08-2018 10:25:25,Quốc lộ 14B - UBND Hòa Vang
+1,43K1-38706,Xe máy,Vượt đèn đỏ,27-08-2018 15:31:08,Quốc lộ 14B - UBND Hòa Vang
+2,43K1-26763,Xe máy,Vượt đèn đỏ,27-08-2018 14:12:20,Quốc lộ 14B - UBND Hòa Vang
+3,43K1-00781,Xe máy,Vượt đèn đỏ,24-08-2018 10:01:18,Quốc lộ 14B - UBND Hòa Vang
+4,43K1-30521,Xe máy,Vượt đèn đỏ,23-08-2018 16:48:30,Quốc lộ 14B - UBND Hòa Vang
+5,43K1-05329,Xe máy,Vượt đèn đỏ,22-08-2018 17:20:40,Quốc lộ 14B - UBND Hòa Vang
+6,43K1-37630,Xe máy,Vượt đèn đỏ,20-08-2018 17:31:27,Quốc lộ 14B - UBND Hòa Vang
+7,77C1-44603,Xe máy,Vượt đèn đỏ,20-08-2018 17:00:52,Quốc lộ 14B - UBND Hòa Vang
+8,43K1-41537,Xe máy,Vượt đèn đỏ,20-08-2018 14:45:41,Quốc lộ 14B - UBND Hòa Vang
+9,43D1-10773,Xe máy,Vượt đèn đỏ,20-08-2018 14:09:40,Quốc lộ 14B - UBND Hòa Vang
+10,43A-15963,Xe Ô tô,Vượt đèn đỏ,20-08-2018 13:53:56,Quốc lộ 14B - UBND Hòa Vang
+1,43A-11234,Xe Ô tô,Vượt đèn đỏ,20-08-2018 10:59:39,Quốc lộ 14B - UBND Hòa Vang
+2,43K1-36478,Xe máy,Vượt đèn đỏ,20-08-2018 10:30:49,Quốc lộ 14B - UBND Hòa Vang
+3,43K1-39043,Xe máy,Vượt đèn đỏ,20-08-2018 10:10:03,Quốc lộ 14B - UBND Hòa Vang
+4,43K1-23853,Xe máy,Vượt đèn đỏ,20-08-2018 09:40:13,Quốc lộ 14B - UBND Hòa Vang
+5,43K1-30464,Xe máy,Vượt đèn đỏ,20-08-2018 08:46:34,Quốc lộ 14B - UBND Hòa Vang
+6,43K1-37387,Xe máy,Vượt đèn đỏ,18-08-2018 17:20:29,Quốc lộ 14B - UBND Hòa Vang
+7,43K1-20897,Xe máy,Vượt đèn đỏ,18-08-2018 14:45:13,Quốc lộ 14B - UBND Hòa Vang
+8,43S5-6546,Xe máy,Vượt đèn đỏ,18-08-2018 14:31:22,Quốc lộ 14B - UBND Hòa Vang
+9,43K1-27421,Xe máy,Vượt đèn đỏ,18-08-2018 13:24:17,Quốc lộ 14B - UBND Hòa Vang
+10,43K1-38976,Xe máy,Vượt đèn đỏ,18-08-2018 13:16:40,Quốc lộ 14B - UBND Hòa Vang
+1,92F1-23296,Xe máy,Vượt đèn đỏ,18-08-2018 12:59:10,Quốc lộ 14B - UBND Hòa Vang
+2,41C1-5521,Xe máy,Vượt đèn đỏ,29-07-2018 16:40:43,Ngã ba Núi Thành - Trưng Nữ Vương
+3,75A-11443,Xe Ô tô,Lấn làn,27-07-2018 17:17:15,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43A-17224,Xe Ô tô,Vượt đèn đỏ,27-07-2018 14:32:56,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43A-00115,Xe Ô tô,Vượt đèn đỏ,27-07-2018 14:25:43,Ngã ba Núi Thành - Trưng Nữ Vương
+6,43C1-44461,Xe máy,Vượt đèn đỏ,26-07-2018 13:17:47,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43C1-69994,Xe máy,Vượt đèn đỏ,25-07-2018 15:23:52,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43A-29639,Xe Ô tô,Vượt đèn đỏ,25-07-2018 12:34:38,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43G1-19674,Xe máy,Vượt đèn đỏ,24-07-2018 09:38:40,Ngã ba Núi Thành - Trưng Nữ Vương
+10,43C1-67746,Xe máy,Vượt đèn đỏ,24-07-2018 09:35:42,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-71133,Xe máy,Vượt đèn đỏ,24-07-2018 09:33:40,Ngã ba Núi Thành - Trưng Nữ Vương
+2,43C1-54533,Xe máy,Vượt đèn đỏ,24-07-2018 08:13:48,Ngã ba Núi Thành - Trưng Nữ Vương
+3,74C1-09754,Xe máy,Vượt đèn đỏ,24-07-2018 06:23:48,Ngã ba Núi Thành - Trưng Nữ Vương
+4,43C1-05735,Xe máy,Vượt đèn đỏ,23-07-2018 15:34:41,Ngã ba Núi Thành - Trưng Nữ Vương
+5,43C1-49165,Xe máy,Vượt đèn đỏ,23-07-2018 15:33:42,Ngã ba Núi Thành - Trưng Nữ Vương
+6,92G1-20068,Xe máy,Vượt đèn đỏ,23-07-2018 14:39:10,Ngã ba Núi Thành - Trưng Nữ Vương
+7,43A-34079,Xe Ô tô,Vượt đèn đỏ,23-07-2018 12:10:31,Ngã ba Núi Thành - Trưng Nữ Vương
+8,43C1-74963,Xe máy,Vượt đèn đỏ,23-07-2018 10:13:55,Ngã ba Núi Thành - Trưng Nữ Vương
+9,43A-09365,Xe Ô tô,Vượt đèn đỏ,22-07-2018 13:58:12,Ngã ba Núi Thành - Trưng Nữ Vương
+10,51A-36895,Xe Ô tô,Vượt đèn đỏ,22-07-2018 12:28:57,Ngã ba Núi Thành - Trưng Nữ Vương
+1,43C1-47079,Xe máy,Vượt đèn đỏ,22-07-2018 10:44:44,Ngã ba Núi Thành - Trưng Nữ Vương
